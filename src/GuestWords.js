@@ -21,7 +21,7 @@ const GuestWords = (props) => {
         });
         content = (
             <div data-test="guessed-words">
-                <h3>GUessed Words</h3>
+                <h3>Guessed Words</h3>
                 <table>
                     <thead>
                         <tr><th>Guess</th><th>Matching Letters</th></tr>
